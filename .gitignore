@@ -1,0 +1,7 @@
+/build
+*.apk
+*.iml
+.project
+.classpath
+/settings
+*.pro
